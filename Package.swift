@@ -13,12 +13,12 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "App",
-            url: "https://github.com/jishidaa/flutter-example/releases/download/1.0.3/App.xcframework.zip",
+            url: "https://github.com/jishidaa/flutter-example/releases/download/1.0.5/App.xcframework.zip",
             checksum: "ab45236d474da1e7ae4631c351073eb96bd89143e08a3748bb83002bf0eba500"
         ),
         .binaryTarget(
             name: "Flutter",
-            url: "https://github.com/jishidaa/flutter-example/releases/download/1.0.3/Flutter.xcframework.zip",
+            url: "https://github.com/jishidaa/flutter-example/releases/download/1.0.5/Flutter.xcframework.zip",
             checksum: "4418f766de828a1a12899fc629312fd9a72510e64343668a04269b199780acb3"
         )
     ],
