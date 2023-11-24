@@ -13,18 +13,18 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "App",
-            url: "https://github.com/jishidaa/flutter-example/releases/download/1.0.0/App.xcframework.zip",
-            checksum: "888bb33a602c696f2a5d8dbeaf314a2dc0d560671b35ca95cbb90b5c58a58b38"
+            url: "https://github.com/jishidaa/flutter-example/releases/download/1.0.1/App.xcframework.zip",
+            checksum: "32427a9a761e8bebfc90b520b461399eafc5e950fdcc3ad28ee59581cb49a5ad"
         ),
         .binaryTarget(
             name: "Flutter",
-            url: "https://github.com/jishidaa/flutter-example/releases/download/1.0.0/Flutter.xcframework.zip",
-            checksum: "2255f44a51b6a484a58cfc92e4f182b2b0210468c728c77e89375b3877eb4b0c"
+            url: "https://github.com/jishidaa/flutter-example/releases/download/1.0.1/Flutter.xcframework.zip",
+            checksum: "482d31d6671799a6536bb41b481715993c8209e47a8db6a9481f2693c1af96cb"
         ),
         .binaryTarget(
             name: "Flutter",
-            url: "https://github.com/jishidaa/flutter-example/releases/download/1.0.0/FlutterPluginRegistrant.xcframework.zip",
-            checksum: "a04d6ad6620ad82f768147fa45d06b79ea1478927ea199804e5116b8274247f6"
+            url: "https://github.com/jishidaa/flutter-example/releases/download/1.0.1/FlutterPluginRegistrant.xcframework.zip",
+            checksum: "a65d673e8430ff8dc7e7f97cda78470894aec7447c0be4825385b5ad733b1fd5"
         )
     ],
     swiftLanguageVersions: [.v5]
