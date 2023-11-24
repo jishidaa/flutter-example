@@ -1,4 +1,4 @@
-// swift-tools-version:5.9
+// swift-tools-version:5.3
 import PackageDescription
 
 let package = Package(
@@ -22,7 +22,7 @@ let package = Package(
             checksum: "482d31d6671799a6536bb41b481715993c8209e47a8db6a9481f2693c1af96cb"
         ),
         .binaryTarget(
-            name: "Flutter",
+            name: "FlutterPluginRegistrant",
             url: "https://github.com/jishidaa/flutter-example/releases/download/1.0.1/FlutterPluginRegistrant.xcframework.zip",
             checksum: "a65d673e8430ff8dc7e7f97cda78470894aec7447c0be4825385b5ad733b1fd5"
         )
