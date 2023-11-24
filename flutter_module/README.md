@@ -6,6 +6,8 @@ directory.
 
 ## Getting Started
 
+cocoapodsをインストールして
+
 For more information about Flutter, check out
 [flutter.dev](https://flutter.dev).
 
