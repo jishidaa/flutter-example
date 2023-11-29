@@ -132,6 +132,7 @@ class Contents extends StatelessWidget {
                   style: Theme.of(context).textTheme.headlineSmall,
                 ),
                 Text('Hoge'),
+                Text('Fuga'),
                 const SizedBox(height: 16),
                 Consumer<CounterModel>(
                   builder: (context, model, child) {
